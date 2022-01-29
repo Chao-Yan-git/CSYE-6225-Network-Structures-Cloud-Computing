@@ -5,4 +5,4 @@ Course Materials
 
 2.Update Lecture Notes and Mandatory Reading Books
 
-3.Updating Assignments
+3.Update Assignments
