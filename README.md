@@ -2,5 +2,7 @@
 Course Materials
 
 1.Course Syllabus
+
 2.Update Lecture Notes and Mandatory Reading Books
+
 3.Updating Assignments
